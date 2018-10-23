@@ -1,6 +1,6 @@
 # Oct 23 2018
 
-Description of  project activities:
+# Description of  project activities:
 According to my schedual that I made,is I'm on schedule
 Current progress:
 My progress is meeting with proposal
