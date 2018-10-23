@@ -9,7 +9,7 @@ No problems had
 # Financial updates:
 No,  I was able to get my cirucit working 
 # Links to repository 
-![Image of Prototype]https://github.com/rulaone/DS3231/blob/master/IMG_5273.JPG
+<img src= "https://github.com/rulaone/DS3231/blob/master/IMG_5273.JPG" width ="50"/>
 
 # Proof of payment 
 
