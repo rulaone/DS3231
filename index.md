@@ -2,16 +2,16 @@
 
 # Description of  project activities:
 According to my schedual that I made,is I'm on schedule
-Current progress:
+# Current progress:
 My progress is meeting with proposal
-problems/opportunities:
+# problems/opportunities:
 No problems had 
-Financial updates:
+# Financial updates:
 No,  I was able to get my cirucit working 
-Links to repository 
+# Links to repository 
 ![Image of Prototype]https://github.com/rulaone/DS3231/blob/master/IMG_5273.JPG
 
-Proof of payment 
+# Proof of payment 
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/merge_from_ofoct.jpg
