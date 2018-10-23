@@ -1,7 +1,7 @@
 # Oct 23 2018
 
 # Description of  project activities:
-According to my schedule that I made,is I'm on schedule
+According to my schedule that I made is I'm on schedule
 # Current progress:
 My progress is meeting with proposal. 
 <img src= "https://github.com/rulaone/DS3231/blob/master/IMG_5273.JPG" width ="150"/>
