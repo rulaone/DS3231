@@ -4,7 +4,7 @@
 According to my schedule that I made is I'm on schedule
 # Current progress:
 My progress is meeting with proposal. 
-<img src= "https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5273.JPG" width ="150"/>
+<img src= "https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5273.JPG" width ="100"/>
 # problems/opportunities:
 No problems had 
 # Financial updates:
