@@ -15,7 +15,7 @@ My progress is meeting with proposal which I had. I was able to connect from the
 <img src= "https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5273.JPG" width ="100"/>
 
 # problems/opportunities:
-No, I didn't have any problems.
+I had one problem which i had to remove the resistor in the ds 3231 rtc
 # Financial updates:
 No,  I was able to get my cirucit working. 
 # Links to repository:
