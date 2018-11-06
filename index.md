@@ -30,7 +30,16 @@ https://www.raspberrypi-spy.co.uk/2015/05/adding-a-ds3231-real-time-clock-to-the
   <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/merge_from_ofoct.jpg
 " width="100" />
 
+# Oct 30, 2018
+In that day I was not able to attend the lab, but I was able to do the fritzing for my circuit 
+<p float ="left">
+<img src= "https://raw.githubusercontent.com/rulaone/DS3231/master/Fritzing.PNG" width ="100"/>
+ 
+ 
+ # Nov 06, 2018
+In today lab i was able to do my solderering for my parts. I'm on track with my project schedule. According to my project proposal i was able to solderer the the sockt and the headers in the PCD board. 
 
+<img src= "https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG" width ="100"/>
 
 
 </p>
