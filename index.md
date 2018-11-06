@@ -6,6 +6,7 @@ According to my schedule that I made is I'm on schedule
 My progress is meeting with proposal. 
 <p float ="left">
 <img src= "https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5273.JPG" width ="100"/>
+
 # problems/opportunities:
 No, I didn't have any problems.
 # Financial updates:
