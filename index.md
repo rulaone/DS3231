@@ -5,7 +5,7 @@ According to my schedule that I made is I'm on schedule. I able to understand ho
 <p float = "left">
  <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/ds%20rasp.jpg" width= "150"/>
  <p float = "right">
- <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/ds%20ard.jpg" width= "10 0"/>
+ <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/ds%20ard.jpg" width= "150"/>
  
 and the second one is this for arduino 
  
