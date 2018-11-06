@@ -37,7 +37,7 @@ In that day I was not able to attend the lab, but I was able to do the fritzing 
  
  
  # Nov 06, 2018
-In today lab i was able to do my solderering for my parts. I'm on track with my project schedule. According to my project proposal i was able to solderer the the sockt and the headers in the PCD board. 
+In today's lab I was able to do my solderering for my parts. I'm on track with my project schedule. According to my project proposal I was able to solderer the the sockt and the headers in the PCD board. 
 
 <img src= "https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG" width ="100"/>
 
