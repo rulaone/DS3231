@@ -19,8 +19,10 @@ My progress is meeting with proposal which I had. I was able to connect from the
 
 # problems/opportunities:
 I had one problem which i had to remove the resistor in the ds 3231 rtc
+
 # Financial updates:
 No,  I was able to get my cirucit working. 
+
 # Links to repository:
 https://www.raspberrypi-spy.co.uk/2015/05/adding-a-ds3231-real-time-clock-to-the-raspberry-pi/
  
