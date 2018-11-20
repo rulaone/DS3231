@@ -10,8 +10,6 @@ In today's lab I was able to connet to the ds3231 rtc from the raspberry pi and 
  In today's lab I was able to do my solderering for my parts. I'm on track with my [project schedule](https://github.com/rulaone/DS3231/blob/master/documentation/Rula%20Schedule.docx), which I have done until this week. According to my [project proposal](https://github.com/rulaone/DS3231/blob/master/RULAPR.xlsx),I was able to solderer the the sockt and the headers in the PCD board.Also, For the financial status I was able to stick to my budget that I have, and I didnt need to buy any extra parts for my project  
 
 ![IMG_5353](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG)
-j
-<img src= "https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG" width ="100"/>
 
 
 
@@ -27,9 +25,11 @@ In that day I was not able to attend the lab, but I was able to do the fritzing 
 
 According to my schedule that I made is I'm on schedule. I able to understand how i connect my scensor to my raspberry pi, since ds 3231 has two types which one is for the raspberry pi 
 <p float = "left">
+ 
  <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/ds%20rasp.jpg" width= "150"/>
  <p float = "right">
  <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/ds%20ard.jpg" width= "150"/>
+ /n
  
 and the second one is this for arduino 
  
