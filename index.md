@@ -9,8 +9,8 @@ In today's lab I was able to connet to the ds3231 rtc from the raspberry pi and 
  #  Nov 06, 2018
  In today's lab I was able to do my solderering for my parts. I'm on track with my [project schedule](https://github.com/rulaone/DS3231/blob/master/documentation/Rula%20Schedule.docx), which I have done until this week. According to my [project proposal](https://github.com/rulaone/DS3231/blob/master/RULAPR.xlsx),I was able to solderer the the sockt and the headers in the PCD board.Also, For the financial status I was able to stick to my budget that I have, and I didnt need to buy any extra parts for my project  
 
-!(https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG)
-
+![IMG_5353](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG)
+j
 <img src= "https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG" width ="100"/>
 
 
