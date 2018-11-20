@@ -31,9 +31,7 @@ According to my schedule that I made is I'm on schedule. I able to understand ho
  <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/ds%20ard.jpg" width= "150"/>
  /n
  
-and the second one is this for arduino 
- 
- so I chooes the ds3231 arduino.
+and the second one is this for arduino,so I chooes the ds3231 arduino.
 
 #  Current progress:
 My progress is meeting with proposal which I had. I was able to connect from the ds 3231 to the raspberry pi.
