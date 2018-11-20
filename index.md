@@ -19,9 +19,7 @@ In that day I was not able to attend the lab, but I was able to do the fritzing 
 <img src= "https://raw.githubusercontent.com/rulaone/DS3231/master/Fritzing.PNG" width ="100"/>
  
  
-
 # Oct 23 2018
-
 # Description of  project activities:
 According to my schedule that I made is I'm on schedule. I able to understand how i connect my scensor to my raspberry pi, since ds 3231 has two types which one is for the raspberry pi 
 <p float = "left">
