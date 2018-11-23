@@ -13,11 +13,9 @@ In today's lab I was able to connet to the ds3231 rtc from the raspberry pi and 
 
  # Nov 06, 2018
  
- In today's lab I was able to do my solderering for my parts. I'm on track with my [project schedule]
- (https://github.com/rulaone/DS3231/blob/master/documentation/Rula%20Schedule.docx), which I have done until this week. According to my 
- [project proposal](https://github.com/rulaone/DS3231/blob/master/RULAPR.xlsx),I was able to solderer the the sockt and the headers in 
+ In today's lab I was able to do my solderering for my parts. I'm on track with my [project schedule](https://github.com/rulaone/DS3231/blob/master/documentation/Rula%20Schedule.docx), which I have done until this week. According to my [project proposal](https://github.com/rulaone/DS3231/blob/master/RULAPR.xlsx),I was able to solderer the the sockt and the headers in 
  the PCD board.Also, For the financial status I was able to stick to my budget that I have, and I didnt need to buy any extra parts for 
- my project[IMG_5353](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG)
+ my project [IMG_5353](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG)
 
 
 
@@ -37,8 +35,7 @@ According to my schedule that I made is I'm on schedule. I able to understand ho
 has two types which one is for the raspberry pi[ds%20rasp](https://raw.githubusercontent.com/rulaone/DS3231/master/ds%20rasp.jpg) and 
 [ds%20ard](https://raw.githubusercontent.com/rulaone/DS3231/master/ds%20ard.jpg)and the second one is this for arduino,so I chooes the 
 ds3231 arduino. So I can have it connected to the bradboard.My progress is meeting with proposal which I had. I was able to connect from 
-the ds 3231 to the raspberry pi.[IMG_5273]
-(https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5273.JPG).problems/opportunities,I had one problem which i had to remove 
+the ds 3231 to the raspberry pi.[IMG_5273](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5273.JPG).problems/opportunities,I had one problem which i had to remove 
 the resistor in the ds 3231 rtc.Financial updates, No, I was able to get my cirucit working.[adding-a-ds3231-real-time-clock-to-the-
 raspberry-pi](https://www.raspberrypi-spy.co.uk/2015/05/adding-a-ds3231-real-time-clock-to-the-raspberry-pi/).Proof of payment,
 [merge_from_ofoct](https://raw.githubusercontent.com/rulaone/DS3231/master/merge_from_ofoct.jpg).
