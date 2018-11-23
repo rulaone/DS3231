@@ -29,9 +29,7 @@ In that day I was not able to attend the lab, but I was able to do the fritzing 
 # Oct 23 2018
 
 project activities, according to my schedule that I made is I'm on schedule. I able to understand how i connect my scensor to my 
-raspberry pi, since ds 3231 has two types which one is for the raspberry pi[ds%20rasp
-(https://raw.githubusercontent.com/rulaone/DS3231/master/ds%20rasp.jpg) and [ds%20ard]
-(https://raw.githubusercontent.com/rulaone/DS3231/master/ds%20ard.jpg)and the second one is this for arduino,so I chooes the ds3231 
+raspberry pi, since ds 3231 has two types which one is for the raspberry pi[ds%20rasp](https://raw.githubusercontent.com/rulaone/DS3231/master/ds%20rasp.jpg) and [ds%20ard](https://raw.githubusercontent.com/rulaone/DS3231/master/ds%20ard.jpg)and the second one is this for arduino,so I chooes the ds3231 
 arduino. So I can have it connected to the bradboard.My progress is meeting with proposal which I had. I was able to connect from the ds 
 3231 to the raspberry pi.[IMG_5273](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5273.JPG).problems/opportunities,I had 
 one problem which i had to remove the resistor in the ds 3231 rtc.Financial updates, No, I was able to get my cirucit working.
