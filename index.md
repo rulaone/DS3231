@@ -1,10 +1,11 @@
 # Nov 22, 2018 
 
+I was able to finish the case and fix all the measurment that I had. It took me about two days to figure out how to fix it, the corel Draw case [Rula%20case](https://github.com/rulaone/DS3231/blob/master/Rula%20case.pdf) shows from the [top](https://raw.githubusercontent.com/rulaone/DS3231/master/top.JPG) [back](https://raw.githubusercontent.com/rulaone/DS3231/master/back.JPG)[right](https://raw.githubusercontent.com/rulaone/DS3231/master/right.JPG)and [left](https://raw.githubusercontent.com/rulaone/DS3231/master/left.JPG).I'm now on track with my schedule[project schedule](https://github.com/rulaone/DS3231/blob/master/documentation/Rula%20Schedule.docx). For my [project proposal](https://github.com/rulaone/DS3231/blob/master/RULAPR.xlsx), was able to get the point that I need which is show time and date.  
 
 
 
 #  Nov 20, 2018 
-In today's lab, I had problem with my case. 
+In today's lab I was not able to finish my case.I'm littel bit late on my [project schedule](https://github.com/rulaone/DS3231/blob/master/documentation/Rula%20Schedule.docx), beacuse I had a problem with the measuring of my case. According to my [project proposal](https://github.com/rulaone/DS3231/blob/master/RULAPR.xlsx),I was able to finish it in the same day. 
 #  Nov 13, 2018 
 
 In today's lab I was able to connet to the ds3231 rtc from the raspberry pi and show the current time and date.I'm on track with my [project schedule](https://github.com/rulaone/DS3231/blob/master/documentation/Rula%20Schedule.docx), which I have done from the previous weeks. According to my [project proposal](https://github.com/rulaone/DS3231/blob/master/RULAPR.xlsx),I was able to read from ds 3231 which was showing the time and the date of our time.For the financial status I was able to stick to my budget that I have, and I didnt need to buy any extra parts for my project 
