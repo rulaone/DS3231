@@ -1,3 +1,6 @@
+# Nov 27, 2018
+Today I'm going to present my project[Presentation%20Ds3231%20RTC](https://github.com/rulaone/DS3231/blob/master/Presentation%20Ds3231%20RTC.pptx)
+
 # Nov 22, 2018 
 
 I was able to finish the case and fix all the measurment that I had. It took me about two days to figure out how to fix it, the corel Draw case [Rula%2016](https://github.com/rulaone/DS3231/blob/master/Rula%2016.cdr) shows from the [top](https://raw.githubusercontent.com/rulaone/DS3231/master/top.JPG) [back](https://raw.githubusercontent.com/rulaone/DS3231/master/back.JPG) [right](https://raw.githubusercontent.com/rulaone/DS3231/master/right.JPG) and [left](https://raw.githubusercontent.com/rulaone/DS3231/master/left.JPG).I'm now on track with my schedule [project schedule](https://github.com/rulaone/DS3231/blob/master/documentation/Rula%20Schedule.docx). For my [project proposal](https://github.com/rulaone/DS3231/blob/master/RULAPR.xlsx), was able to get the point that I need which is show time and date.  
