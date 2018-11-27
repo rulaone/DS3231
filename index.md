@@ -1,5 +1,5 @@
 # Nov 27, 2018
-Today I'm going to present my project[Presentation%20Ds3231%20RTC](https://github.com/rulaone/DS3231/blob/master/Presentation%20Ds3231%20RTC.pptx)
+Today I'm going to present my project [Presentation%20Ds3231%20RTC](https://github.com/rulaone/DS3231/blob/master/Presentation%20Ds3231%20RTC.pptx)
 
 # Nov 22, 2018 
 
@@ -14,7 +14,7 @@ In today's lab I was not able to finish my case.I'm littel bit late on my [proje
 In today's lab I was able to connet to the ds3231 rtc from the raspberry pi and show the current time and date.I'm on track with my [project schedule](https://github.com/rulaone/DS3231/blob/master/documentation/Rula%20Schedule.docx), which I have done from the previous weeks. According to my [project proposal](https://github.com/rulaone/DS3231/blob/master/RULAPR.xlsx),I was able to read from ds 3231 which was showing the time and the date of our time.For the financial status I was able to stick to my budget that I have, and I didnt need to buy any extra parts for my project [DS3231connection](https://raw.githubusercontent.com/rulaone/DS3231/master/DS3231connection.PNG)
 
 
- # Nov 06, 2018
+ #  Nov 06, 2018
  
  In today's lab I was able to do my solderering for my parts. I'm on track with my [project schedule](https://github.com/rulaone/DS3231/blob/master/documentation/Rula%20Schedule.docx), which I have done until this week. According to my [project proposal](https://github.com/rulaone/DS3231/blob/master/RULAPR.xlsx),I was able to solderer the the sockt and the headers in 
  the PCD board.Also, For the financial status I was able to stick to my budget that I have, and I didnt need to buy any extra parts for 
