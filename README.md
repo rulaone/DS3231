@@ -2,11 +2,13 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Student Sense Hat Specifications](#student-sense-hat-specifications)
-3. [Student Sense Hat Electronic Design Files](#student-sense-hat-electronic-design-files)
-4. [Student Sense Hat Assembly](#student-sense-hat-assembly)
-5. [Student Raspberry Pi Image Creation and Test Code](#student-raspberry-pi-image-creation-and-test-code)
-6. [Enterprise Wi-Fi](#enterprise-wi-fi)
+2. [Bill of Materials/Budget]
+3. [Time Commitment]
+4. [Mechanical Assembly]
+5. [PCB / Soldering]
+6. [Power Up]
+7. [Unit Testing]
+8. [Production Testing]
 
 ![IMG_5353](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG)
 # Introduction 
