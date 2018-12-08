@@ -2,13 +2,14 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Bill of Materials/Budget](# Bill of Materials/Budget)
-3. [Time Commitment](# Time Commitment)
-4. [Mechanical Assembly](# Mechanical Assembly)
-5. [PCB / Soldering](# PCB / Soldering)
-6. [Power Up](# Power Up)
-7. [Unit Testing](# Unit Testing)
-8. [Production Testing](# Production Testing)
+2. [Bill of Materials/Budget](#Bill of Materials/Budget)
+2. [Bill of Materials/Budget] (# Bill of Materials/Budget)
+3. [Time Commitment] (# Time Commitment)
+4. [Mechanical Assembly] (# Mechanical Assembly)
+5. [PCB / Soldering] (# PCB / Soldering)
+6. [Power Up] (# Power Up)
+7. [Unit Testing] (# Unit Testing)
+8. [Production Testing] (# Production Testing)
 
 ![IMG_5353](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG)
 # Introduction 
