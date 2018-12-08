@@ -44,3 +44,7 @@ I had touble in getting some part of the project to be done.
 
 
 # Mechanical Assembly
+
+# PCB / Soldering
+
+The PCB desing of my project, I was using Fritzing which help me to do the desing for my cirucit 
