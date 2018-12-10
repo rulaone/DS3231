@@ -2,9 +2,9 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Bill of Materials/Budget](#bill of Materials/Budget)
-3. [Time Commitment] (#time Commitment)
-4. [Mechanical Assembly](#mechanical Assembly)
+2. [Bill of Materials/Budget](#bill-of-Materials/Budget)
+3. [Time Commitment](#time-Commitment)
+4. [Mechanical Assembly](#mechanical-Assembly)
 5. [PCB / Soldering](#pCB / Soldering)
 6. [Power Up](#power Up)
 7. [Unit Testing](#unit Testing)
