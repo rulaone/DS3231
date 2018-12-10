@@ -39,7 +39,8 @@ The materials that I used in my project, most of it I used but there are some ma
 
 # Time Commitment
 
-The time commitment of this project was about 13 weeks. In each week part of project was done, first week was chossing senser/effector, secon week was the proposal due whcih eas getting the 
+The time commitment of this project was about 13 weeks.  
+In each week part of project was done, first week was chossing senser/effector, second week was the proposal due that include what is my proposal and what the problem that I introduce for my project wh 
 
 
 
