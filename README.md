@@ -5,10 +5,10 @@
 2. [Bill of Materials/Budget](#bill-of-Materials/Budget)
 3. [Time Commitment](#time-Commitment)
 4. [Mechanical Assembly](#mechanical-Assembly)
-5. [PCB / Soldering](#pCB / Soldering)
-6. [Power Up](#power Up)
-7. [Unit Testing](#unit Testing)
-8. [Production Testing](#production Testing)
+5. [PCB / Soldering](#pCB-/-Soldering)
+6. [Power Up](#power-Up)
+7. [Unit Testing](#unit-Testing)
+8. [Production Testing](#production-Testing)
 
 ![IMG_5353](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG)
 # Introduction 
@@ -39,7 +39,7 @@ The materials that I used in my project, most of it I used but there are some ma
 
 # Time Commitment
 
-I had touble in getting some part of the project to be done. 
+The time commitment of this project was about 13 weeks. In each week part of project was done, first week was chossing senser/effector, secon week was the proposal due whcih eas getting the 
 
 
 
