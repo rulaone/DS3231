@@ -2,10 +2,10 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Bill of Materials/Budget](#bill-of-Materials/Budget)
+2. [Bill of Materials and Budget](#bill-of-Materials-and-Budget)
 3. [Time Commitment](#time-Commitment)
 4. [Mechanical Assembly](#mechanical-Assembly)
-5. [PCB/Soldering](#pCB-/-Soldering)
+5. [PCB and Soldering](#pCB-and-Soldering)
 6. [Power Up](#power-Up)
 7. [Unit Testing](#unit-Testing)
 8. [Production Testing](#production-Testing)
@@ -33,7 +33,7 @@ Ds3231 rtc is senser which shows time and date, which will be connecting to a ra
 | SDA | P1-03(I2C SDA) |
 | SCL | 1-05(I2C SCL) |
 
-# Bill of Materials/Budget
+# Bill of Materials and Budget
 
 The materials that I used in my project, most of it I used but there are some materials I did not, also all the products that I bought was from Amazon,it took about one day to be shipped. Starting with the first product which was the raspberry pi, it cost me about $69.99+Tax. the second and the thir item were LCD Display Module it cost about $12.28+Tax, and Lithium battery which was about $8.19+Tax  I did not need to used these items in my project. The fourth item was the Ds3231 RTC the price of it $9.99+Tax,For the tools that I already have was the tool kit which include the jumper wires, Female-to-male Dupont wire and solderless wire and that cost me about $23.99+Tax. In total the price that I used in project without the two items was about $117.49 including Tax.Link to the whole budget[budget](https://github.com/rulaone/DS3231/blob/master/documentation/budget%20.docx).
 
@@ -45,6 +45,6 @@ The time commitment of this project was about 13 weeks. In each week part of pro
 
 # Mechanical Assembly
 
-# PCB / Soldering
+# PCB and Soldering
 
 The PCB desing of my project, I was using Fritzing which help me to do the desing for my cirucit 
