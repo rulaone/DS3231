@@ -50,7 +50,7 @@ Using this table to connect ds3231 rtc to my raspberry pi:
 
 Also you refer to this link to make sure that the connection of the raspberry pi is right [GPIO](https://www.raspberrypi.org/documentation/usage/gpio/)
 
-By finishing the connection it should look like and make sure you do not leave the workstation powered up close everything you have so don't get ... 
+By finishing the connection it should look like and make sure you do not leave the workstation powered up close everything before you leave 
 <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5273.JPG" hight ="200">
 
 BY using Fritzing which it will help you to get your PCB design done, by click on this link and download [fritzing](http://fritzing.org/download/)and it should look like this :
