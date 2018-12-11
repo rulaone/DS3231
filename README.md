@@ -54,7 +54,7 @@ Also you refer to this link to make sure that the connection of the raspberry pi
 
 By finishing the connection it should look like and make sure you do not leave the workstation powered up close everything before you leave 
 
-<img src="https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5273.JPG" width ="200">
+<img src="https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5273.JPG" width ="250">
 
 BY using Fritzing which it will help you to get your PCB design done, by click on this link and download [fritzing](http://fritzing.org/download/)and it should look like this :
 
@@ -62,7 +62,7 @@ BY using Fritzing which it will help you to get your PCB design done, by click o
 
 The final look of the PCB design and it is soldered with the headers:
 
-<img src= "https://raw.githubusercontent.com/rulaone/DS3231/master/PCBHeader.JPG">
+<img src= "https://raw.githubusercontent.com/rulaone/DS3231/master/PCBHeader.JPG" width = "250">
 
 # Power Up
 The connection that you need to detect the right address for ds3231 is (68), by running this command (sudo i2cdetect -y 1), in the below picture the UU means that you are using that address which is 68:
