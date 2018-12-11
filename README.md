@@ -10,7 +10,7 @@
 7. [Unit Testing](#unit-Testing)
 8. [Production Testing](#production-Testing)
 
-<img src="https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG" width = "200">
+<img src="https://raw.githubusercontent.com/rulaone/DS3231/master/project.JPG" width = "200">
 
 # Introduction 
 
