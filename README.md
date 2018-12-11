@@ -75,7 +75,9 @@ The following picture shows how the ds3231 was connecting to raspberry pi using 
 
 <img scr="https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG">
 
+
 # Unit Testing
+
 To make sure you have that right set up and the leatest update for the ds3231 follow these steps:
 1- sudo apt-get update
 2- sudo apt-get upgrade
