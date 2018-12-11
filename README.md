@@ -13,18 +13,7 @@
 ![IMG_5353](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG)
 # Introduction 
 
-DS3231 RTC(Real Time Clock) sensro which shows the time and date, by connecting it to a Raspberry Pi which was done by hand solderable 
-design meant to be compatible with the devices in the Humber Parts Crib which require more skills and techniques to assemble.
-It has a bidirectional LED and three I2C device sockets. The bidirectional LED allows the hardware equivalent of "Hello World"
-to be achieved by blinking the LED. I2C is a very common hardware peripheral bus and is designed to have an analog breakout
-board, a Real Time Clock module, and an integrated environmental sensor module connected. It takes most individuals about a
-week of effort to complete these build instructions directed towards technologically inclined students especially given other
-commitments. Be aware that the image creation steps take at least 3 hours alone.
-
-
-
-
-Ds3231 rtc is senser which shows time and date, which will be connecting to a raspberry Pi using a PCB design with following connecting :
+This project which is done by connecting the raspberry pi to a ds3231 rtc which give you the date and time. Using the following instruction from buying the parts that is needed to have, how long it take to finish each part,how you can setup the connection, what you need to know about  the power up and unit testing. Most of the work was done in the lab, 
 
 
 # Bill of Materials and Budget
