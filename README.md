@@ -19,6 +19,7 @@ This project which is done by connecting the raspberry pi to a ds3231 rtc which 
 # Bill of Materials and Budget
 
 The materials that I used in my project, most of it I used but there are some materials I did not, also all the products that I bought was from Amazon,it took about one day to be shipped. Starting with the first product which was the raspberry pi, it cost me about $69.99+Tax. the second and the thir item were LCD Display Module it cost about $12.28+Tax, and Lithium battery which was about $8.19+Tax  I did not need to used these items in my project. The fourth item was the Ds3231 RTC the price of it $9.99+Tax,For the tools that I already have was the tool kit which include the jumper wires, Female-to-male Dupont wire and solderless wire and that cost me about $23.99+Tax. In total the price that I used in project without the two items was about $117.49 including Tax.Link to the whole budget[budget](https://github.com/rulaone/DS3231/blob/master/documentation/budget%20.docx).
+
 link for the parts: 
 [ds3231 RTC](https://www.amazon.ca/Robojax-DS3231-Precision-Module-Arduino/dp/B07GGM2WZF/ref=sr_1_6?ie=UTF8&qid=1544497739&sr=8-6&keywords=ds3231+rtc)
 [Raspberry pi](https://www.amazon.ca/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BD3WHCK/ref=sr_1_5?s=electronics&ie=UTF8&qid=1544497837&sr=1-5&keywords=canakit+raspberry+pi+3+b%2B)
