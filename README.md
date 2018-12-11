@@ -25,7 +25,7 @@ link for the parts:
 [Raspberry pi](https://www.amazon.ca/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BD3WHCK/ref=sr_1_5?s=electronics&ie=UTF8&qid=1544497837&sr=1-5&keywords=canakit+raspberry+pi+3+b%2B)
 
 # Time Commitment
-The time that it will take you to finish this project is about 2 to 3 days.
+The time that it will take you to finish the whole project is about 2 to 3 days.
 
 The time commitment for ordering the parts all of them it took about a day. Setting up the connection of the circute it should take about a day to get it, getting the i2c detect  about two hours.  Also the time it took me to get the date and time was 4 hours, but making the case to for the project it took me around4 times to do it in three days 
 
@@ -53,7 +53,7 @@ Using this table to connect ds3231 rtc to my raspberry pi:
 Also you refer to this link to make sure that the connection of the raspberry pi is right [GPIO](https://www.raspberrypi.org/documentation/usage/gpio/)
 
 By finishing the connection it should look like and make sure you do not leave the workstation powered up close everything before you leave 
-<img src="https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5273.JPG" hight ="200">
+<img src="https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5273.JPG" width ="200">
 
 BY using Fritzing which it will help you to get your PCB design done, by click on this link and download [fritzing](http://fritzing.org/download/)and it should look like this :
 
@@ -115,5 +115,6 @@ The Reaings for the date and time, whcih is done by the following:
   <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/DS3231connection.PNG">
   
   # Production Testing
+ 
  
  
