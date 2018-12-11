@@ -14,8 +14,7 @@
 
 # Introduction 
 
-This project which is done by connecting the raspberry pi to a ds3231 rtc which give you the date and time. Using the following instruction from buying the parts that is needed to have, how long it will take to finish each part,how you can setup the connection, what you need to know about  the power up and unit testing. Most of the work was done in the lab, but you can work on it at home, to set your raspbian you can visite this website [raspbian](https://www.raspberrypi.org/downloads/raspbian/) and follow the instruction for the installation [installation](https://www.raspberrypi.org/documentation/installation/installing-images/README.md). Using Vnc which will help you to connect your raspberry pi[VNC](https://www.realvnc.com/en/connect/download/viewer/) and follow this instructiion[Vnc](https://www.youtube.com/watch?v=5UvPIEnSM_A).
-
+This project which is done by connecting the raspberry pi to a ds3231 rtc which give you the date and time. Using the following instruction from buying the parts that is needed to have, how long it will take to finish each part,how you can setup the connection, what you need to know about  the power up and unit testing. Most of the work was done in the lab, but you can work on it at home, to set your raspbian you can visite this website [raspbian](https://www.raspberrypi.org/downloads/raspbian/) and follow the instruction for the installation [installation](https://www.raspberrypi.org/documentation/installation/installing-images/README.md). Using Vnc which will help you to connect your raspberry pi[VNC](https://www.realvnc.com/en/connect/download/viewer/) and follow this instructiion[Vnc](https://www.youtube.com/watch?v=5UvPIEnSM_A), also the Wind32 disk imager [Win32](https://sourceforge.net/projects/win32diskimager/) and for more infromation about win32 [Win32 info](https://sourceforge.net/projects/win32diskimager/).
 
 # Bill of Materials and Budget
 
@@ -23,11 +22,11 @@ The materials that you need used for this project, you can see my [budget](https
 
 link for the parts: 
 
-[ds3231 RTC](https://www.amazon.ca/Robojax-DS3231-Precision-Module-Arduino/dp/B07GGM2WZF/ref=sr_1_6?ie=UTF8&qid=1544497739&sr=8-6&keywords=ds3231+rtc)
+[ds3231 RTC](https://www.amazon.ca/Robojax-DS3231-Precision-Module-Arduino/dp/B07GGM2WZF/ref=sr_1_6?ie=UTF8&qid=1544497739&sr=8-6&keywords=ds3231+rtc).
 
-[Raspberry pi](https://www.amazon.ca/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BD3WHCK/ref=sr_1_5?s=electronics&ie=UTF8&qid=1544497837&sr=1-5&keywords=canakit+raspberry+pi+3+b%2B)
+[Raspberry pi](https://www.amazon.ca/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BD3WHCK/ref=sr_1_5?s=electronics&ie=UTF8&qid=1544497837&sr=1-5&keywords=canakit+raspberry+pi+3+b%2B).
 
-[headers](https://canada.newark.com/adafruit/2223/40-pin-pi-gpio-stacking-header/dp/31AC4582?gclid=Cj0KCQiA3b3gBRDAARIsAL6D-N9i54lwzFCBhjCH15Ij_rg2Fta41-Qt3-hBjQKA3X4UnI7OFXRU6cUaAh9EEALw_wcB&mckv=sddlmZ6UT_dc|pcrid|59652582172|plid||kword||match||slid||product|31AC4582|pgrid|23335389652|ptaid|aud-191015087572:pla-294680686006|&CAGPSPN=pla&CAWELAID=120185770002227709&CAAGID=23335389652&CMP=&CATCI=aud-191015087572:pla-294680686006)
+[headers](https://canada.newark.com/adafruit/2223/40-pin-pi-gpio-stacking-header/dp/31AC4582?gclid=Cj0KCQiA3b3gBRDAARIsAL6D-N9i54lwzFCBhjCH15Ij_rg2Fta41-Qt3-hBjQKA3X4UnI7OFXRU6cUaAh9EEALw_wcB&mckv=sddlmZ6UT_dc|pcrid|59652582172|plid||kword||match||slid||product|31AC4582|pgrid|23335389652|ptaid|aud-191015087572:pla-294680686006|&CAGPSPN=pla&CAWELAID=120185770002227709&CAAGID=23335389652&CMP=&CATCI=aud-191015087572:pla-294680686006).
 
 # Time Commitment
 The time that it will take you to finish the whole project is about 2 to 4 days. The time that it take to  order the parts all of them it took about a day. Setting up the connection of the circute it should take about a day to get it, getting the i2c detect  about two hours.  Also the time it took will to get the date and time was 4 hours, but keep in consideraton  making the case for this project it should take around 4 times to do it. 
@@ -38,7 +37,7 @@ The time that it will take you to finish the whole project is about 2 to 4 days.
   
   <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/Corel.PNG">
   
-  The finall look of the raspberry pi with ds3231 rtc in the case from different sides: [top](https://raw.githubusercontent.com/rulaone/DS3231/master/top.JPG) [back](https://raw.githubusercontent.com/rulaone/DS3231/master/back.JPG) [left](https://raw.githubusercontent.com/rulaone/DS3231/master/left.JPG) [right](https://raw.githubusercontent.com/rulaone/DS3231/master/right.JPG)
+  The finall look of the raspberry pi with ds3231 rtc in the case from different sides: [top](https://raw.githubusercontent.com/rulaone/DS3231/master/top.JPG) [back](https://raw.githubusercontent.com/rulaone/DS3231/master/back.JPG) [left](https://raw.githubusercontent.com/rulaone/DS3231/master/left.JPG) [right](https://raw.githubusercontent.com/rulaone/DS3231/master/right.JPG).
 
 
 
@@ -55,7 +54,7 @@ Using this table to connect ds3231 rtc to my raspberry pi:
 
 Also you refer to this link to make sure that the connection of the raspberry pi is right [GPIO](https://www.raspberrypi.org/documentation/usage/gpio/) 
 
-By finishing the connection it should look like and make sure you do not leave the workstation powered up close everything before you leave 
+By finishing the connection it should look like and make sure you do not leave the workstation powered up close everything before you leave:
 
 <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5273.JPG" width ="250">
 
