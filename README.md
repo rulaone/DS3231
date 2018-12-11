@@ -10,7 +10,7 @@
 7. [Unit Testing](#unit-Testing)
 8. [Production Testing](#production-Testing)
 
-![IMG_5353](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG width = "200")
+<img src="https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG" width = "200">
 # Introduction 
 
 This project which is done by connecting the raspberry pi to a ds3231 rtc which give you the date and time. Using the following instruction from buying the parts that is needed to have, how long it take to finish each part,how you can setup the connection, what you need to know about  the power up and unit testing. Most of the work was done in the lab, 
