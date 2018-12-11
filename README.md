@@ -47,6 +47,7 @@ In each week part of project was done, first week was chossing senser/effector, 
 # PCB and Soldering
 
 Using this table to connect ds3231 rtc to my raspberry pi:
+
 | Ds3231 | Raspberry Pi |
 | --- | --- |
 | GND | P1-06 |
@@ -58,15 +59,20 @@ By finishing the connection it should look like
 <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5273.JPG">
 
 BY using Fritzing which it will help you to get your PCB design done, by click on this link and download [fritzing](http://fritzing.org/download/)and it should look like this :
+
 <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/Fritzing.PNG">
 
 The final look of the PCB design and it is soldered with the headers:
+
 <img src= "https://raw.githubusercontent.com/rulaone/DS3231/master/PCBHeader.JPG">
 
 # Power Up
 The connection that you need to detect the right address for ds3231 is (68), by running this command (sudo i2cdetect -y 1), in the below picture the UU means that you are using that address which is 68:
+
 <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/i2cdetect.PNG">
+
 The following picture shows how the ds3231 was connecting to raspberry pi using the PCB board :
+
 <img scr="https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG">
 
 # Unit Testing
@@ -83,6 +89,7 @@ The next step is to setup the i2c using the following commands which will have t
 you need to add the following lines before the exit 0 
 echo ds1307 0x68 > /sys/class/i2c-adapter/i2c-1/new_device 
 hwclock -s 
+
 <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/code.PNG">
 
 The Hwclock is a program which help you to write to the RTC click on this link to see how does it work [hwclock](https://linux.die.net/man/8/hwclock)
