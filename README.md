@@ -10,7 +10,7 @@
 7. [Unit Testing](#unit-Testing)
 8. [Production Testing](#production-Testing)
 
-![IMG_5353](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG)
+![IMG_5353](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG width = "200")
 # Introduction 
 
 This project which is done by connecting the raspberry pi to a ds3231 rtc which give you the date and time. Using the following instruction from buying the parts that is needed to have, how long it take to finish each part,how you can setup the connection, what you need to know about  the power up and unit testing. Most of the work was done in the lab, 
@@ -25,9 +25,7 @@ link for the parts:
 [Raspberry pi](https://www.amazon.ca/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BD3WHCK/ref=sr_1_5?s=electronics&ie=UTF8&qid=1544497837&sr=1-5&keywords=canakit+raspberry+pi+3+b%2B)
 
 # Time Commitment
-The time that it will take you to finish the whole project is about 2 to 3 days.
-
-The time commitment for ordering the parts all of them it took about a day. Setting up the connection of the circute it should take about a day to get it, getting the i2c detect  about two hours.  Also the time it took me to get the date and time was 4 hours, but making the case to for the project it took me around4 times to do it in three days 
+The time that it will take you to finish the whole project is about 2 to 3 days. The time that it take to  order the parts all of them it took about a day. Setting up the connection of the circute it should take about a day to get it, getting the i2c detect  about two hours.  Also the time it took me to get the date and time was 4 hours, but making the case to for this project it should take around 4 times to do it. 
 
 # Mechanical Assembly
  
@@ -126,5 +124,5 @@ The Reaings for the date and time, whcih is done by the following:
   
   # Production Testing
  
- 
+This project should be 
  
