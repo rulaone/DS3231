@@ -23,7 +23,9 @@ The materials that you need used for this project, you can see my [budget](https
 
 link for the parts: 
 [ds3231 RTC](https://www.amazon.ca/Robojax-DS3231-Precision-Module-Arduino/dp/B07GGM2WZF/ref=sr_1_6?ie=UTF8&qid=1544497739&sr=8-6&keywords=ds3231+rtc)
+
 [Raspberry pi](https://www.amazon.ca/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BD3WHCK/ref=sr_1_5?s=electronics&ie=UTF8&qid=1544497837&sr=1-5&keywords=canakit+raspberry+pi+3+b%2B)
+
 [headers](https://canada.newark.com/adafruit/2223/40-pin-pi-gpio-stacking-header/dp/31AC4582?gclid=Cj0KCQiA3b3gBRDAARIsAL6D-N9i54lwzFCBhjCH15Ij_rg2Fta41-Qt3-hBjQKA3X4UnI7OFXRU6cUaAh9EEALw_wcB&mckv=sddlmZ6UT_dc|pcrid|59652582172|plid||kword||match||slid||product|31AC4582|pgrid|23335389652|ptaid|aud-191015087572:pla-294680686006|&CAGPSPN=pla&CAWELAID=120185770002227709&CAAGID=23335389652&CMP=&CATCI=aud-191015087572:pla-294680686006)
 
 # Time Commitment
