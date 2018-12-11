@@ -71,9 +71,9 @@ The connection that you need to detect the right address for ds3231 is (68), by 
 
 <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/i2cdetect.PNG">
 
-The following picture shows how the ds3231 was connecting to raspberry pi using the PCB board :
+The following picture shows how the ds3231 was connecting to raspberry pi using the PCB board [IMG_5353](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG)
 
-<img scr="https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG">
+
 
 
 # Unit Testing
