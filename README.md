@@ -67,7 +67,7 @@ The final look of the PCB design and it is soldered with the headers:
 # Power Up
 The connection that you need to detect the right address for ds3231 is (68), by running this command (sudo i2cdetect -y 1), in the below picture the UU means that you are using that address which is 68:
 
-<img src="https://raw.githubusercontent.com/rulaone/DS3231/master/i2cdetect.PNG" width = "250">
+<img src="https://raw.githubusercontent.com/rulaone/DS3231/master/i2cdetect.PNG" width = "350">
 
 The following picture shows how the ds3231 was connecting to raspberry pi using the PCB board [IMG_5353](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG)
 
