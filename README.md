@@ -26,7 +26,7 @@ link for the parts:
 [Raspberry pi](https://www.amazon.ca/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BD3WHCK/ref=sr_1_5?s=electronics&ie=UTF8&qid=1544497837&sr=1-5&keywords=canakit+raspberry+pi+3+b%2B)
 
 # Time Commitment
-The time that it will take you to finish the whole project is about 2 to 3 days. The time that it take to  order the parts all of them it took about a day. Setting up the connection of the circute it should take about a day to get it, getting the i2c detect  about two hours.  Also the time it took me to get the date and time was 4 hours, but making the case to for this project it should take around 4 times to do it. 
+The time that it will take you to finish the whole project is about 2 to 4 days. The time that it take to  order the parts all of them it took about a day. Setting up the connection of the circute it should take about a day to get it, getting the i2c detect  about two hours.  Also the time it took will to get the date and time was 4 hours, but keep in consideraton  making the case for this project it should take around 4 times to do it. 
 
 # Mechanical Assembly
  
@@ -124,6 +124,7 @@ The Reaings for the date and time, whcih is done by the following:
   <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/DS3231connection.PNG">
   
   # Production Testing
- 
-This project should 
+  
+ You can have a 
+
  
