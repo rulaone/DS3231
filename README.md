@@ -58,7 +58,7 @@ By finishing the connection it should look like and make sure you do not leave t
 
 BY using Fritzing which it will help you to get your PCB design done, by click on this link and download [fritzing](http://fritzing.org/download/)and it should look like this :
 
-<img src="https://raw.githubusercontent.com/rulaone/DS3231/master/Fritzing.PNG">
+<img src="https://raw.githubusercontent.com/rulaone/DS3231/master/Fritzing.PNG" width = "250">
 
 The final look of the PCB design and it is soldered with the headers:
 
@@ -67,7 +67,7 @@ The final look of the PCB design and it is soldered with the headers:
 # Power Up
 The connection that you need to detect the right address for ds3231 is (68), by running this command (sudo i2cdetect -y 1), in the below picture the UU means that you are using that address which is 68:
 
-<img src="https://raw.githubusercontent.com/rulaone/DS3231/master/i2cdetect.PNG">
+<img src="https://raw.githubusercontent.com/rulaone/DS3231/master/i2cdetect.PNG" width = "250">
 
 The following picture shows how the ds3231 was connecting to raspberry pi using the PCB board [IMG_5353](https://raw.githubusercontent.com/rulaone/DS3231/master/IMG_5353.JPG)
 
@@ -77,19 +77,28 @@ The following picture shows how the ds3231 was connecting to raspberry pi using 
 # Unit Testing
 
 To make sure you have that right set up and the leatest update for the ds3231 follow these steps:
+````
 1- sudo apt-get update
+````
+````
 2- sudo apt-get upgrade
+````
+````
 3-to check if the rtc-ds1307 is there, which it should be done in the system file by: 
 sudo nano /etc/modules.
+````
 If it is not there then add (rtc-ds1307)to it, then you can save it, use CTRL-X and enter.
 shutdown the raspberry pi using the command (sudo halt) and remove the power.
 
 The next step is to setup the i2c using the following commands which will have the acess to the address :
+```
 1- sudo nano /etc/rc.local
+```
+```
 you need to add the following lines before the exit 0 
 echo ds1307 0x68 > /sys/class/i2c-adapter/i2c-1/new_device 
 hwclock -s 
-
+```
 <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/code.PNG">
 
 The Hwclock is a program which help you to write to the RTC click on this link to see how does it work [hwclock](https://linux.die.net/man/8/hwclock)
