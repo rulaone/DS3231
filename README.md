@@ -14,7 +14,7 @@
 
 # Introduction 
 
-This project which is done by connecting the raspberry pi to a ds3231 rtc which give you the date and time. Using the following instruction from buying the parts that is needed to have, how long it take to finish each part,how you can setup the connection, what you need to know about  the power up and unit testing. Most of the work was done in the lab, 
+This project which is done by connecting the raspberry pi to a ds3231 rtc which give you the date and time. Using the following instruction from buying the parts that is needed to have, how long it take to finish each part,how you can setup the connection, what you need to know about  the power up and unit testing. Most of the work was done in the lab. You can work on it in a safe place.
 
 
 # Bill of Materials and Budget
@@ -49,7 +49,7 @@ Using this table to connect ds3231 rtc to my raspberry pi:
 | SDA | P1-03(I2C SDA) |
 | SCL | 1-05(I2C SCL) |
 
-Also you refer to this link to make sure that the connection of the raspberry pi is right [GPIO](https://www.raspberrypi.org/documentation/usage/gpio/)
+Also you refer to this link to make sure that the connection of the raspberry pi is right [GPIO](https://www.raspberrypi.org/documentation/usage/gpio/) 
 
 By finishing the connection it should look like and make sure you do not leave the workstation powered up close everything before you leave 
 
@@ -125,6 +125,6 @@ The Reaings for the date and time, whcih is done by the following:
   
   # Production Testing
   
- You can have a 
+ The production of this project, instead buying each inadiuals part from amazon which it will cost more plus the shipping. For example for the raspiberry pi,and ds3231 rtc  you can contect the owner or send email to their website, and ask their permission if they can give you a discount since you are trying to have more raspberry pi and sd3231, their website for ds3231 is: [RoboAj](http://robojax.com/search.php?term=) and for raspberry pi [CanKit](https://www.canakit.com/). For the case enclousre and soldering, you should contact their companies and ask them for a packge of acrylic which should have a discount for it, the samething with the soldering part for the website case ordering [Johnston](https://www.johnstonplastics.com/toronto/), for the soldering website[jbctools](https://www.jbctools.com/).     
 
  
