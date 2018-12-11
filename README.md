@@ -28,6 +28,13 @@ link for the parts:
 The time commitment for ordering the parts all of them it took about a day. Setting up the connection of the circute it should take about a day to get it, getting the i2c detect  about two hours.  Also the time it took me to get the date and time was 4 hours, but making the case to for the project it took me around4 times to do it in three days 
 
 # Mechanical Assembly
+ 
+  Using [Corel](https://www.coreldraw.com/en/pages/free-download/) which you can download it, but it is only 15 days free then you have to purches it, you can download how I have it from here [Rula%2016](https://github.com/rulaone/DS3231/blob/master/Rula%2016.cdr) 
+  
+  <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/Corel.PNG">
+  
+  The finall look of the raspberry pi with ds3231 rtc in the case from different sides: [top](https://raw.githubusercontent.com/rulaone/DS3231/master/top.JPG) [back](https://raw.githubusercontent.com/rulaone/DS3231/master/back.JPG) [left](https://raw.githubusercontent.com/rulaone/DS3231/master/left.JPG) [right](https://raw.githubusercontent.com/rulaone/DS3231/master/right.JPG)
+
 
 
 # PCB and Soldering
@@ -106,10 +113,4 @@ The Reaings for the date and time, whcih is done by the following:
   <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/DS3231connection.PNG">
   
   # Production Testing
-  
-  Using [Corel](https://www.coreldraw.com/en/pages/free-download/) which you can download it, but it is only 15 days free then you have to purches it, you can download how I have it from here [Rula%2016](https://github.com/rulaone/DS3231/blob/master/Rula%2016.cdr) 
-  
-  <img src="https://raw.githubusercontent.com/rulaone/DS3231/master/Corel.PNG">
-  
-  The finall look of the raspberry pi with ds3231 rtc in the case from different sides: [top](https://raw.githubusercontent.com/rulaone/DS3231/master/top.JPG) [back](https://raw.githubusercontent.com/rulaone/DS3231/master/back.JPG) [left](https://raw.githubusercontent.com/rulaone/DS3231/master/left.JPG) [right](https://raw.githubusercontent.com/rulaone/DS3231/master/right.JPG)
-
+ 
